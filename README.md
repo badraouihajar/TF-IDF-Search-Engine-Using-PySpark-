@@ -4,13 +4,13 @@ This project is a mini search engine built with **Apache Spark**, using the **TF
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
-📄 **Title**: Implementation of a TF-IDF Based Search Engine using PySpark
-👩‍💻 **Author**: Hajar BADRAOUI
-🏫 **Institution**: Université de Caen Normandie
-🎓 **Master**: M2 Statistiques Appliquées et Analyse Décisionnelle (SAAD)
-📆 **Academic Year**: 2023–2024
+ **Title**: Implementation of a TF-IDF Based Search Engine using PySpark
+ **Author**: Hajar BADRAOUI
+ **Institution**: Université de Caen Normandie
+ **Master**: M2 Statistiques Appliquées et Analyse Décisionnelle (SAAD)
+ **Academic Year**: 2023–2024
 
 This project was carried out as part of a practical assignment, focusing on:
 
@@ -22,7 +22,7 @@ This project was carried out as part of a practical assignment, focusing on:
 
 ---
 
-## ⚙️ Technologies
+##  Technologies
 
 * Python 3.x
 * Apache Spark (PySpark – RDD API)
@@ -30,7 +30,7 @@ This project was carried out as part of a practical assignment, focusing on:
 
 ---
 
-## 📚 Methodology
+##  Methodology
 
 1. **Corpus Loading**: Documents are loaded from a text file into a Spark RDD.
 
@@ -57,7 +57,7 @@ This project was carried out as part of a practical assignment, focusing on:
 
 ---
 
-## 📂 Example
+##  Example
 
 Given a small corpus:
 
@@ -83,13 +83,13 @@ The engine will return documents ranked by similarity:
 
 ---
 
-## 🚀 Scaling
+##  Scaling
 
 Tested successfully on a large corpus of **990 documents**, showing Spark’s capability for scalable document analysis.
 
 ---
 
-## 📎 License
+##  License
 
 This project is shared for educational purposes.
 © 2024 Hajar BADRAOUI – Université de Caen Normandie
